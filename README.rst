@@ -40,6 +40,7 @@ It requires:
 - `h5py <http://www.h5py.org>`_: 2.6 or higher
 - `NumPy <https://www.numpy.org>`_: 1.11 or higher
 - `six <https://github.com/benjaminp/six>`_: 1.10 or higher
+- `packaging <https://pypi.org/project/packaging/>`
 - `progressbar33 <https://github.com/germangh/python-progressbar>`_: 2.3.1 or higher
 
 Interface - get_fast5_file
